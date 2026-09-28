@@ -1,1 +1,12 @@
 body { margin: 0; }
+.intro {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+}
+.intro h1 {
+  color: #2c3e50;
+}
